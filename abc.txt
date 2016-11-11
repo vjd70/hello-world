@@ -1,3 +1,5 @@
 This is a new file.
 
 File has been modified and committed.
+
+Another modification.
