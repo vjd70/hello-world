@@ -8,4 +8,5 @@ New test.
 
 Secure test.
 
+sha256
 VJ
