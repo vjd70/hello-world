@@ -9,4 +9,5 @@ New test.
 Secure test.
 
 sha256
+display both values
 VJ
